@@ -1,0 +1,14 @@
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/NRecHitBarrel
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/NRecHitEndcap
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/RecHitTimeBarrel
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/RecHitTimeEndcap
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/RecHitTimeCPRC
+/DQMData/Run 1/RPC/Run summary/RPCRecHitV/SimVsReco/HitProperty/RecHitTimeIRPC
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/Strip_Profile
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/Bunch_Crossing
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/BxDisc_4Plus
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/BxDisc_4Min
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/DigiTime
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/DigiTimeAll
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/DigiTimeIRPC
+/DQMData/Run 1/RPCDigisV/Run summary/RPCDigis/DigiTimeNoIRPC
